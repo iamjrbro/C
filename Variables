@@ -1,0 +1,19 @@
+void main () {
+
+// Printing a variable
+int a = 50;
+printf("%d", a);
+
+// Printing the addition of two variables 
+int a = 26;
+int b = 60;
+printf("%d", a + b);
+
+// Printing the addition of three variables 
+
+int a = 26;
+int b = 60;
+int c = 14;
+printf("%d", a + b + c);
+
+}
