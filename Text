@@ -1,0 +1,6 @@
+void main () {
+
+// Print The ocean is as blue as the sky
+
+print ("The ocean is as blue as the sky")
+}
